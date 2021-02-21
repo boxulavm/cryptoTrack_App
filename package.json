@@ -1,0 +1,25 @@
+{
+  "name": "cryptotrack_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boxulavm/cryptoTrack_App.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boxulavm/cryptoTrack_App/issues"
+  },
+  "homepage": "https://github.com/boxulavm/cryptoTrack_App#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.17",
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "eslint": "^7.20.0"
+  }
+}
