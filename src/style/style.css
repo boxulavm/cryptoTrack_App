@@ -1,4 +1,54 @@
 #loader {
   color: #2196f3;
 }
+
+.text-danger {
+  color: #f44336;
+}
+
+.text-success {
+  color: #4caf50;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.d-none {
+  display: none;
+}
+
+.submitBtn {
+  width: 90%;
+}
+
+.amountInput {
+  width: 90%;
+  margin-bottom: 5px;
+}
+
+.currencyName:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#homePage {
+  padding: 20px;
+}
+
+.active {
+  color: white;
+  background-color: grey;
+}
 /*# sourceMappingURL=style.css.map */
